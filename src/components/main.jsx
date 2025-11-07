@@ -23,6 +23,8 @@ const main = () => {
                     700,
                     "A Coder",
                     700,
+                    "An AI & ML Enthusiast",
+                    700,
                     "A Tech-Enthusiast",
                     700,
                   ]}
@@ -36,9 +38,8 @@ const main = () => {
                 />
               </h2>
               <p className="mt-5 w-[300px] md:w-[370px]">
-                Passionate full stack developer creating user-friendly web
-                applications, blending creativity with technical skills for
-                engaging online experiences.
+                Full Stack Developer & AIML enthusiast building creative,
+                intelligent, and user-friendly web experiences.
               </p>
               <a
                 className="pt-12"

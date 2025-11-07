@@ -3,7 +3,7 @@ export const EDUCATION = [
     year: "2023 - Present",
     role: "Bachelor of Technology in Artificial Intelligence and Machine Learning",
     clg: "Birla Institute of Technology, Mesra",
-    disc: "Currently, I am pursuing a degree in AIML with a CGPA of 8.59 (till 2nd semester), and have developed a strong interest in DSA and Web development.",
+    disc: "Currently, I am pursuing a degree in AIML with a CGPA of 8.75 (till 4th semester), and have developed a strong interest in DSA, Web development and AIML.",
   },
   {
     year: "2021 - 2023",

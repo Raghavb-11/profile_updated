@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import prof from "../assets/pproo.png";
+import prof from "../assets/pproo.jpeg";
 import Maxim from "./util/maxim";
 import Rating from "./util/rating";
 
@@ -25,17 +25,18 @@ const about = () => {
               transition={{ duration: 0.5, delay: 0.5 }}
               className="text-l py-8 text-left"
             >
-              I&apos;m a second-year undergraduate student at Birla Institute of
+              I&apos;m a third-year undergraduate student at Birla Institute of
               Technology, Mesra, pursuing a degree in Artificial Intelligence
-              and Machine Learning. Alongside my academic journey, I&apos;m
-              passionate about web development and Data Structures and
-              Algorithms (DSA). I enjoy crafting scalable solutions and I&apos;m
-              always looking for opportunities to apply my skills to real-world
-              problems. Punctuality is a core strength of mine; I firmly believe
-              that meeting deadlines is crucial to achieving success. To
-              complement my studies, I continually seek opportunities for growth
-              through online courses and workshops.
-              <Rating />
+              and Machine Learning. I&apos;m deeply passionate about Artificial
+              Intelligence and Machine Learning (AIML), web development, and
+              Data Structures and Algorithms (DSA). I enjoy crafting scalable
+              and efficient solutions, and I&apos;m always looking for
+              opportunities to apply my skills to real-world problems.
+              Punctuality is a core strength of mine; I firmly believe that
+              meeting deadlines is crucial to achieving success. To complement
+              my studies, I continually seek opportunities for growth through
+              online courses, workshops, and projects.
+              {/* <Rating />  */}
             </motion.p>
           </div>
         </div>
